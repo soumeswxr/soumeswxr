@@ -15,27 +15,12 @@
 im really bored nowadays...
 ---
 
-### 🟢 Discord Live Status
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1245783823581577358?theme=dark&borderRadius=15px&animated=true&hideDiscrim=false&idleMessage=VIBING+TO+MUSIC!" alt="Discord Presence">
-</p>
-
----
-
 ### 📊 GitHub Intelligence
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fang420&show_icons=true&theme=radical" width="450" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fang420&theme=radical" width="450" alt="GitHub Streak">
 </p>
-
----
-
-### 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Terminal_Green?style=for-the-badge&logo=github&logoColor=00FF00&color=111111)](https://github.com/fang420)  
-[![Discord](https://img.shields.io/badge/Discord-Fang%20神%231000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245783823581577358)
 
 ---
 
