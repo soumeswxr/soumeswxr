@@ -38,18 +38,13 @@
 
 </div>
 
-## 📊 NEURAL_LINK_TELEMETRY
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dfang420%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26icon_color%3D00FF00%26title_color%3D00FF00%26text_color%3D00FF00%26bg_color%3D0D1117" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-</p>
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fang420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fang420&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fang420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ⚡ ACTIVE_PAYLOAD_DIRECTORIES
+```
 root@fang420:~# tree ./projects/ -L 2
 ./projects/
 ├── 💀 EXPLOITS
@@ -63,11 +58,11 @@ root@fang420:~# tree ./projects/ -L 2
 └── 🏗️ LOW_LEVEL
     ├── FangOS                  # From scratch bare-metal kernel
     └── rust_autoclicker        # High-performance event injection
-
+```
 ## 📡 CURRENT_SYSTEM_RESOURCES
-  CPU [████████████████████] 100% (Reverse Engineering)
-  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
-  SLP [░░░░░░░░░░░░░░░░░░░░] 0%   (Hunting Bugs)
+-  CPU [████████████████████] 100% (Reverse Engineering)
+-  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
+-  SLP [░░░░░░░░░░░░░░░░░░░░] 0%   (Hunting Bugs)
 
 ## 💬 ENCRYPTED_SIGNATURE
 > "The light is a lie. If you want the truth, look at the instructions executed in the dark."
