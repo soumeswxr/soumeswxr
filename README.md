@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+FANG_神;SECURITY+RESEARCHER;REVERSE+ENGINEER;[+]+MALWARE+ANALYSIS+UNIT+ACTIVE">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+FANG_神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
 </h1>
 
 <p align="center">
@@ -69,8 +69,8 @@ root@fang420:~# tree ./projects/ -L 2
 > — Fang 神
 > 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%">
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/%3Fusername%3Dfang420%26color%3D00FF00%26style%3Dflat-square%26label%3DVISITOR_ID" />
+<p>
+![](https://komarev.com/ghpvc/?username=fang420)
 </p>
