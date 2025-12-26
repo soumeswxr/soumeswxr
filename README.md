@@ -53,10 +53,6 @@ root@soumeswxr:~# cat TOOLS
 ——————————————————————————————
 ```
 
-## 💬 MESSAGE
-> “Monsters aren't beneath our bed, they are among us.”
-> — SOUMESWXR 神
-> 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=SOUMESWXR%20神&fontSize=90" />
 </p>
