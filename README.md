@@ -61,4 +61,4 @@ root@soumeswxr:~# cat TOOLS
 </p>
 
 ## JOIN OUR GANG 
-[![𓆩☠︎︎𓆪](https://discord.gg/UprTZqgb5g)
+[𓆩☠︎︎𓆪](https://discord.gg/UprTZqgb5g)
