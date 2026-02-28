@@ -15,9 +15,7 @@
 ## 📂 ABOUT_ME
 ```zsh
 > USER:         SOUMESWXR 神
-> STATUS:       ERROR 404
 > OS: Arch Linux
-> ARCHITECTURE: x64
 ```
 ## 🧏‍♂️ I MOSTLY USE:
 <div align="center">
